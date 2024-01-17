@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Science**
 
-- 👯 I’m looking to collaborate on **HTML , CSS , JAVA SCRIPT , JQUERY , BOOTSTRAP**
+- 👯 I’m looking to collaborate on **JAVA SCRIPT , JQUERY**
 
 - 🤝 I’m looking for help with **PHP , LARAVEL , REACT**
 
